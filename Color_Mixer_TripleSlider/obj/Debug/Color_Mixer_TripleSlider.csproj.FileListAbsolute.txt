@@ -1,0 +1,15 @@
+C:\Users\HP\Downloads\Conestoga\Programming_Fundamentals\Week3\Color_Mixer_TripleSlider\Color_Mixer_TripleSlider\bin\Debug\Color_Mixer_TripleSlider.exe.config
+C:\Users\HP\Downloads\Conestoga\Programming_Fundamentals\Week3\Color_Mixer_TripleSlider\Color_Mixer_TripleSlider\bin\Debug\Color_Mixer_TripleSlider.exe
+C:\Users\HP\Downloads\Conestoga\Programming_Fundamentals\Week3\Color_Mixer_TripleSlider\Color_Mixer_TripleSlider\bin\Debug\Color_Mixer_TripleSlider.pdb
+C:\Users\HP\Downloads\Conestoga\Programming_Fundamentals\Week3\Color_Mixer_TripleSlider\Color_Mixer_TripleSlider\obj\Debug\MainWindow.g.cs
+C:\Users\HP\Downloads\Conestoga\Programming_Fundamentals\Week3\Color_Mixer_TripleSlider\Color_Mixer_TripleSlider\obj\Debug\App.g.cs
+C:\Users\HP\Downloads\Conestoga\Programming_Fundamentals\Week3\Color_Mixer_TripleSlider\Color_Mixer_TripleSlider\obj\Debug\Color_Mixer_TripleSlider_MarkupCompile.cache
+C:\Users\HP\Downloads\Conestoga\Programming_Fundamentals\Week3\Color_Mixer_TripleSlider\Color_Mixer_TripleSlider\obj\Debug\Color_Mixer_TripleSlider_MarkupCompile.lref
+C:\Users\HP\Downloads\Conestoga\Programming_Fundamentals\Week3\Color_Mixer_TripleSlider\Color_Mixer_TripleSlider\obj\Debug\MainWindow.baml
+C:\Users\HP\Downloads\Conestoga\Programming_Fundamentals\Week3\Color_Mixer_TripleSlider\Color_Mixer_TripleSlider\obj\Debug\Color_Mixer_TripleSlider.g.resources
+C:\Users\HP\Downloads\Conestoga\Programming_Fundamentals\Week3\Color_Mixer_TripleSlider\Color_Mixer_TripleSlider\obj\Debug\Color_Mixer_TripleSlider.Properties.Resources.resources
+C:\Users\HP\Downloads\Conestoga\Programming_Fundamentals\Week3\Color_Mixer_TripleSlider\Color_Mixer_TripleSlider\obj\Debug\Color_Mixer_TripleSlider.csproj.GenerateResource.Cache
+C:\Users\HP\Downloads\Conestoga\Programming_Fundamentals\Week3\Color_Mixer_TripleSlider\Color_Mixer_TripleSlider\obj\Debug\Color_Mixer_TripleSlider.csproj.CoreCompileInputs.cache
+C:\Users\HP\Downloads\Conestoga\Programming_Fundamentals\Week3\Color_Mixer_TripleSlider\Color_Mixer_TripleSlider\obj\Debug\Color_Mixer_TripleSlider.exe
+C:\Users\HP\Downloads\Conestoga\Programming_Fundamentals\Week3\Color_Mixer_TripleSlider\Color_Mixer_TripleSlider\obj\Debug\Color_Mixer_TripleSlider.pdb
+C:\Users\HP\Downloads\Conestoga\Programming_Fundamentals\Week3\Color_Mixer_TripleSlider\Color_Mixer_TripleSlider\obj\Debug\Color_Mixer_TripleSlider.csprojResolveAssemblyReference.cache
